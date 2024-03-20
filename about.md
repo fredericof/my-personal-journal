@@ -10,7 +10,8 @@ title: About
 Olá, meu nome é Frederico Ferreira Bitencourt, formando em Engenharia Eletrônica e de Telecomunicação. Comecei na base hardware e eletrônica, depois fui
 para sistema embarcados e apartir daqui veio a paixão por software. Ver o hardware que você programa fazendo coisas me deixou fascinado!
 
-Hoje sou líder técnico e CTO da LeadSoft® Soluções Web construíndo diversos tipos de software para várias contextos com grandes Clientes.
+Hoje sou líder técnico e CTO da LeadSoft® Soluções Web construíndo diversos tipos de software para várias contextos com grandes clientes.
+
 Esse blog é meu diário pessoal que registrarei meu progresso e todas as experiências, aprendizados, conhecimento da minha vida profissional e pessoal.
 
 Espero que o conhecimento compartilhado aqui possa ajudar você. A melhor forma de aprendizado e ensinar/compartilhar conhecimento.
