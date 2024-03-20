@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Como eu começaria aprender a ser programador em 2024"
+title: "Como eu começaria aprender programação em 2024"
 date: 2024-03-19 21:51:55
 comments: true
 categories: [Tips]
