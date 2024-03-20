@@ -1,32 +1,30 @@
 name: Frederico Bitencourt
 description: >
-    A simple jekyll theme aimed at programmers who like clean interface to write posts
-    and show off some code.
+  Meu diário profissional/pessoal
 about: >
-    At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+  At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 
 master_repo: false
 url: "https://fredericof.github.io/my-personal-journal"
 markdown: kramdown
 highlighter: rouge
 
-plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
+plugins: ["jekyll-paginate", "jekyll-gist", "jekyll-feed"]
 
 paginate: 4
 
-logo:             logo.png
+logo: logo.png
 disqus_shortname:
 
 rtl: false
 owner:
-  name:           whitepaper
-  avatar:         "https://avatars1.githubusercontent.com/u/537678?s=240&v=4"
-  email:          "vinit1414.08@bitmesra.ac.in"
+  name: Frederico Bitencourt
+  avatar: "https://avatars.githubusercontent.com/u/1363326?s=400&u=3c141777d8fa3e7f3f22240ce0d9e9f66c5e5200&v=4"
+  email: "fredericofbh@gmail.com"
   # Social networking links used in footer. Update and remove as you like.
   twitter: fred_bitencourt
   github: https://github.com/fredericof
-  stackexchange: https://stackoverflow.com/users/859112/vinit-kumar?tab=profile
-  linkedin: https://www.linkedin.com/in/vinitatlinkedin
+  linkedin: https://www.linkedin.com/in/frederico-bitencourt-29a71923a/
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 

@@ -2,14 +2,20 @@
 layout: default
 title: About
 ---
-## About {{ site.name }}
+
+## Sobre {{ site.name }}
 
 <img class="user-avatar" src="{{ site.owner.avatar }}">
 
-White Paper is a very clean theme and used by users around the globe.
-It aims to be clean and really fast. Jekyll is a pretty neat platform for generating websites and applications. The effort required to setup this blog is minimal but the effect is visible from the day one.
+Olá, meu nome é Frederico Ferreira Bitencourt, formando em Engenharia Eletrônica e de Telecomunicação. Comecei na base hardware e eletrônica, depois fui
+para sistema embarcados e apartir daqui veio a paixão por software. Ver o hardware que você programa fazendo coisas me deixou fascinado!
 
-If you are visiting this page, it means you have configured it right and all you need to do now is to start blogging.
+Hoje sou líder técnico e CTO da LeadSoft® Soluções Web construíndo diversos tipos de software para várias contextos com grandes Clientes.
+Esse blog é meu diário pessoal que registrarei meu progresso e todas as experiências, aprendizados, conhecimento da minha vida profissional e pessoal.
+
+Espero que o conhecimento compartilhado aqui possa ajudar você. A melhor forma de aprendizado e ensinar/compartilhar conhecimento.
+
+Seja bem vindo!
 
 <div class="pagination">
   {% if site.owner.linkedin %}
